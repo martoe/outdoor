@@ -16,3 +16,14 @@ category: outdoor
 * 22.05.2026 - Niederösterreich - Mödlinger Klettersteig
 * 24.05.2026 - Steiermark - Hönigsbergalm
 * 06.06.2026 - Hohe Wand - Gebirgsvereinssteig, Steierspur
+* 17.06.2026 - Steiermark - Falkenstein Klettersteig C/D
+* 03.07.2026 - Steiermark - Moschkogelhütte
+* 13.07.2026 - Osttirol - ÖTK-Klettersteig Pirknerklamm
+* 14.07.2026 - Osttirol - Matrei: Edelweißwiese
+* 16.07.2026 - Osttirol - Verborgene Welt Klettersteig
+* 17.07.2026 - Osttirol - Lienzer Dolomiten: Rudl-Eller-Weg
+* 20.07.2026 - Steiermark - Schladming: Reiteralm, Spiegelsee
+* 21.07.2026 - Steiermark - Ramsau: Silberkarklamm
+* 08.08.2026 - Niederösterreich - Schneeberüberschreitung (Weichtalklamm, Klosterwappen, Emmy-Steig, Zahnradbahnweg)
+* 22.08.2026 - Steiermark - Falkenstein Klettersteig C/D
+* 27.08.2026 - Niederösterreich - Rax: Großes Wolfstal, Brandschneide
