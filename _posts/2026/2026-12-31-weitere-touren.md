@@ -27,3 +27,5 @@ category: outdoor
 * 08.08.2026 - Niederösterreich - Schneeberüberschreitung (Weichtalklamm, Klosterwappen, Emmy-Steig, Zahnradbahnweg)
 * 22.08.2026 - Steiermark - Falkenstein Klettersteig C/D
 * 27.08.2026 - Niederösterreich - Rax: Großes Wolfstal, Brandschneide
+* 05.09.2026 - Steiermark - Ramsau: Guttenberghaus, Jubiläumsklettersteig D
+* 06.09.2026 - Steiermark - Ramsau: Sinabell-Klettersteig C/D, Hohe Rams
